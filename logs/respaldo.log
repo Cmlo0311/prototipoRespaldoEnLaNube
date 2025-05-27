@@ -1,0 +1,442 @@
+========== Iniciando respaldo: Tue May 27 03:52:52 PM -05 2025 ==========
+-> Organizando archivos en /home/cmlo/Desktop/RespaldoDrogueria
+-> Organización completada
+-> Sincronizando /home/cmlo/Desktop/RespaldoDrogueria -> nextcloud:RespaldoDrogueria
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         0.5sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.0sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.5sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         2.0sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         2.5sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         3.0sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Elapsed time:         3.5sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 2 / 2, 100%
+Elapsed time:         4.0sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 4 / 4, 100%
+Elapsed time:         4.5sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 7 / 7, 100%
+Elapsed time:         5.0sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                10 / 10, 100%
+Elapsed time:         5.5sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                15 / 15, 100%
+Elapsed time:         5.9s
+-> Sincronización completada: 20250527_155252
+-> Purga de papeleras con más de 7 días
+-> Purga completada
+========== Finalizado: Tue May 27 03:53:00 PM -05 2025 ==========
+========== Iniciando respaldo: Tue May 27 03:54:25 PM -05 2025 ==========
+-> Organizando archivos en /home/cmlo/Desktop/RespaldoDrogueria
+-> Organización completada
+-> Sincronizando /home/cmlo/Desktop/RespaldoDrogueria -> nextcloud:RespaldoDrogueria
+2025/05/27 15:54:26 CRITICAL: Failed to initialise global options: failed to reload "filter" options: open /home/cmlo/sistemaDeRespaldo/excluir.txt: no such file or directory
+========== Iniciando respaldo: Tue May 27 03:55:19 PM -05 2025 ==========
+-> Organizando archivos en /home/cmlo/Desktop/RespaldoDrogueria
+-> Organización completada
+-> Sincronizando /home/cmlo/Desktop/RespaldoDrogueria -> nextcloud:RespaldoDrogueria
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         0.5sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.0sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.5sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         2.0sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         2.5sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         3.0sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 2 / 2, 100%
+Elapsed time:         3.5sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 4 / 4, 100%
+Elapsed time:         4.0sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 7 / 7, 100%
+Elapsed time:         4.5sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                10 / 10, 100%
+Elapsed time:         5.0sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                14 / 14, 100%
+Elapsed time:         5.5sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                15 / 15, 100%
+Elapsed time:         5.7s
+-> Sincronización completada: 20250527_155520
+-> Purga de papeleras con más de 7 días
+-> Purga completada
+========== Finalizado: Tue May 27 03:55:27 PM -05 2025 ==========
+========== Iniciando respaldo: Tue May 27 03:56:26 PM -05 2025 ==========
+-> Organizando archivos en /home/cmlo/Desktop/RespaldoDrogueria
+-> Organización completada
+-> Sincronizando /home/cmlo/Desktop/RespaldoDrogueria -> nextcloud:RespaldoDrogueria
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         0.5sTransferred:   	          0 B / 364 B, 0%, 0 B/s, ETA -
+Transferred:            0 / 15, 0%
+Elapsed time:         1.0s
+Transferring:
+ *     Inventario/Kardex/txt/kardex_lote_123.txt:  0% /17, 0/s, -
+ * Seguridad/Respaldos/zip/backup_2025-05-26.zip:  0% /28, 0/s, -
+ * Administracion/Impuest…txt/impuestos_2025.txt:  0% /27, 0/s, -
+ * Administracion/Nomina/…t/nomina_mayo_2025.txt:  0% /30, 0/s, -Transferred:   	          0 B / 364 B, 0%, 0 B/s, ETA -
+Transferred:            0 / 15, 0%
+Elapsed time:         1.5s
+Transferring:
+ *     Inventario/Kardex/txt/kardex_lote_123.txt:  0% /17, 0/s, -
+ * Seguridad/Respaldos/zip/backup_2025-05-26.zip:  0% /28, 0/s, -
+ * Administracion/Impuest…txt/impuestos_2025.txt:  0% /27, 0/s, -
+ * Administracion/Nomina/…t/nomina_mayo_2025.txt:  0% /30, 0/s, -Transferred:   	          0 B / 364 B, 0%, 0 B/s, ETA -
+Transferred:            0 / 15, 0%
+Elapsed time:         2.0s
+Transferring:
+ *     Inventario/Kardex/txt/kardex_lote_123.txt:  0% /17, 0/s, -
+ * Seguridad/Respaldos/zip/backup_2025-05-26.zip:  0% /28, 0/s, -
+ * Administracion/Impuest…txt/impuestos_2025.txt:  0% /27, 0/s, -
+ * Administracion/Nomina/…t/nomina_mayo_2025.txt:  0% /30, 0/s, -Transferred:   	          0 B / 364 B, 0%, 0 B/s, ETA -
+Transferred:            0 / 15, 0%
+Elapsed time:         2.5s
+Transferring:
+ *     Inventario/Kardex/txt/kardex_lote_123.txt:  0% /17, 0/s, -
+ * Seguridad/Respaldos/zip/backup_2025-05-26.zip:  0% /28, 0/s, -
+ * Administracion/Impuest…txt/impuestos_2025.txt:  0% /27, 0/s, -
+ * Administracion/Nomina/…t/nomina_mayo_2025.txt:  0% /30, 0/s, -Transferred:   	          0 B / 364 B, 0%, 0 B/s, ETA -
+Transferred:            0 / 15, 0%
+Elapsed time:         3.0s
+Transferring:
+ *     Inventario/Kardex/txt/kardex_lote_123.txt:  0% /17, 0/s, -
+ * Seguridad/Respaldos/zip/backup_2025-05-26.zip:  0% /28, 0/s, -
+ * Administracion/Impuest…txt/impuestos_2025.txt:  0% /27, 0/s, -
+ * Administracion/Nomina/…t/nomina_mayo_2025.txt:  0% /30, 0/s, -Transferred:   	          0 B / 364 B, 0%, 0 B/s, ETA -
+Transferred:            0 / 15, 0%
+Elapsed time:         3.5s
+Transferring:
+ *     Inventario/Kardex/txt/kardex_lote_123.txt:  0% /17, 0/s, -
+ * Seguridad/Respaldos/zip/backup_2025-05-26.zip:  0% /28, 0/s, -
+ * Administracion/Impuest…txt/impuestos_2025.txt:  0% /27, 0/s, -
+ * Administracion/Nomina/…t/nomina_mayo_2025.txt:  0% /30, 0/s, -Transferred:   	          0 B / 364 B, 0%, 0 B/s, ETA -
+Transferred:            0 / 15, 0%
+Elapsed time:         4.0s
+Transferring:
+ *     Inventario/Kardex/txt/kardex_lote_123.txt:  0% /17, 0/s, -
+ * Seguridad/Respaldos/zip/backup_2025-05-26.zip:  0% /28, 0/s, -
+ * Administracion/Impuest…txt/impuestos_2025.txt:  0% /27, 0/s, -
+ * Administracion/Nomina/…t/nomina_mayo_2025.txt:  0% /30, 0/s, -Transferred:   	          0 B / 364 B, 0%, 0 B/s, ETA -
+Transferred:            0 / 15, 0%
+Elapsed time:         4.5s
+Transferring:
+ *     Inventario/Kardex/txt/kardex_lote_123.txt:  0% /17, 0/s, -
+ * Seguridad/Respaldos/zip/backup_2025-05-26.zip:  0% /28, 0/s, -
+ * Administracion/Impuest…txt/impuestos_2025.txt:  0% /27, 0/s, -
+ * Administracion/Nomina/…t/nomina_mayo_2025.txt:  0% /30, 0/s, -Transferred:   	        102 B / 364 B, 28%, 0 B/s, ETA -
+Transferred:            0 / 15, 0%
+Elapsed time:         5.0s
+Transferring:
+ *     Inventario/Kardex/txt/kardex_lote_123.txt:100% /17, 0/s, -
+ * Seguridad/Respaldos/zip/backup_2025-05-26.zip:100% /28, 0/s, -
+ * Administracion/Impuest…txt/impuestos_2025.txt:100% /27, 0/s, -
+ * Administracion/Nomina/…t/nomina_mayo_2025.txt:100% /30, 0/s, -Transferred:   	        102 B / 364 B, 28%, 20 B/s, ETA 12s
+Transferred:            0 / 15, 0%
+Elapsed time:         5.5s
+Transferring:
+ *     Inventario/Kardex/txt/kardex_lote_123.txt:100% /17, 0/s, -
+ * Seguridad/Respaldos/zip/backup_2025-05-26.zip:100% /28, 0/s, -
+ * Administracion/Impuest…txt/impuestos_2025.txt:100% /27, 0/s, -
+ * Administracion/Nomina/…t/nomina_mayo_2025.txt:100% /30, 0/s, -Transferred:   	        102 B / 364 B, 28%, 17 B/s, ETA 15s
+Transferred:            1 / 15, 7%
+Elapsed time:         6.0s
+Transferring:
+ * Seguridad/Respaldos/zip/backup_2025-05-26.zip:100% /28, 5/s, 0s
+ * Administracion/Impuest…txt/impuestos_2025.txt:100% /27, 5/s, 0s
+ * Administracion/Nomina/…t/nomina_mayo_2025.txt:100% /30, 5/s, 0s
+ * Inventario/ControlDeSt…control_2025-05-26.txt:  0% /24, 0/s, -Transferred:   	        102 B / 364 B, 28%, 17 B/s, ETA 15s
+Transferred:            4 / 15, 27%
+Elapsed time:         6.5s
+Transferring:
+ * Inventario/ControlDeSt…control_2025-05-26.txt:  0% /24, 0/s, -
+ *  Proveedores/Facturas/txt/factura_xyz_001.txt:  0% /22, 0/s, -
+ * Seguridad/ReportesDeAc…/acceso_2025-05-26.log:  0% /26, 0/s, -
+ * SaludYNormativa/Licenc…/txt/licencia_2025.txt:  0% /29, 0/s, -Transferred:   	        102 B / 364 B, 28%, 17 B/s, ETA 15s
+Transferred:            4 / 15, 27%
+Elapsed time:         7.0s
+Transferring:
+ * Inventario/ControlDeSt…control_2025-05-26.txt:  0% /24, 0/s, -
+ *  Proveedores/Facturas/txt/factura_xyz_001.txt:  0% /22, 0/s, -
+ * Seguridad/ReportesDeAc…/acceso_2025-05-26.log:  0% /26, 0/s, -
+ * SaludYNormativa/Licenc…/txt/licencia_2025.txt:  0% /29, 0/s, -Transferred:   	        102 B / 364 B, 28%, 14 B/s, ETA 17s
+Transferred:            4 / 15, 27%
+Elapsed time:         7.5s
+Transferring:
+ * Inventario/ControlDeSt…control_2025-05-26.txt:  0% /24, 0/s, -
+ *  Proveedores/Facturas/txt/factura_xyz_001.txt:  0% /22, 0/s, -
+ * Seguridad/ReportesDeAc…/acceso_2025-05-26.log:  0% /26, 0/s, -
+ * SaludYNormativa/Licenc…/txt/licencia_2025.txt:  0% /29, 0/s, -Transferred:   	        102 B / 364 B, 28%, 14 B/s, ETA 17s
+Transferred:            4 / 15, 27%
+Elapsed time:         8.0s
+Transferring:
+ * Inventario/ControlDeSt…control_2025-05-26.txt:  0% /24, 0/s, -
+ *  Proveedores/Facturas/txt/factura_xyz_001.txt:  0% /22, 0/s, -
+ * Seguridad/ReportesDeAc…/acceso_2025-05-26.log:  0% /26, 0/s, -
+ * SaludYNormativa/Licenc…/txt/licencia_2025.txt:  0% /29, 0/s, -Transferred:   	        152 B / 364 B, 42%, 12 B/s, ETA 16s
+Transferred:            4 / 15, 27%
+Elapsed time:         8.5s
+Transferring:
+ * Inventario/ControlDeSt…control_2025-05-26.txt:100% /24, 0/s, -
+ *  Proveedores/Facturas/txt/factura_xyz_001.txt:  0% /22, 0/s, -
+ * Seguridad/ReportesDeAc…/acceso_2025-05-26.log:100% /26, 0/s, -
+ * SaludYNormativa/Licenc…/txt/licencia_2025.txt:  0% /29, 0/s, -Transferred:   	        152 B / 364 B, 42%, 12 B/s, ETA 16s
+Transferred:            4 / 15, 27%
+Elapsed time:         9.0s
+Transferring:
+ * Inventario/ControlDeSt…control_2025-05-26.txt:100% /24, 7/s, 0s
+ *  Proveedores/Facturas/txt/factura_xyz_001.txt:  0% /22, 0/s, -
+ * Seguridad/ReportesDeAc…/acceso_2025-05-26.log:100% /26, 0/s, -
+ * SaludYNormativa/Licenc…/txt/licencia_2025.txt:  0% /29, 0/s, -Transferred:   	        152 B / 364 B, 42%, 16 B/s, ETA 12s
+Transferred:            6 / 15, 40%
+Elapsed time:         9.5s
+Transferring:
+ *  Proveedores/Facturas/txt/factura_xyz_001.txt:  0% /22, 0/s, -
+ * SaludYNormativa/Licenc…/txt/licencia_2025.txt:  0% /29, 0/s, -
+ *    Proveedores/Contratos/txt/contrato_xyz.txt:  0% /23, 0/s, -
+ * SaludYNormativa/Buenas…l_buenas_practicas.txt:  0% /24, 0/s, -Transferred:   	        203 B / 364 B, 56%, 20 B/s, ETA 7s
+Transferred:            6 / 15, 40%
+Elapsed time:        10.0s
+Transferring:
+ *  Proveedores/Facturas/txt/factura_xyz_001.txt:100% /22, 0/s, -
+ * SaludYNormativa/Licenc…/txt/licencia_2025.txt:100% /29, 0/s, -
+ *    Proveedores/Contratos/txt/contrato_xyz.txt:  0% /23, 0/s, -
+ * SaludYNormativa/Buenas…l_buenas_practicas.txt:  0% /24, 0/s, -Transferred:   	        203 B / 364 B, 56%, 20 B/s, ETA 7s
+Transferred:            6 / 15, 40%
+Elapsed time:        10.5s
+Transferring:
+ *  Proveedores/Facturas/txt/factura_xyz_001.txt:100% /22, 5/s, 0s
+ * SaludYNormativa/Licenc…/txt/licencia_2025.txt:100% /29, 7/s, 0s
+ *    Proveedores/Contratos/txt/contrato_xyz.txt:  0% /23, 0/s, -
+ * SaludYNormativa/Buenas…l_buenas_practicas.txt:  0% /24, 0/s, -Transferred:   	        203 B / 364 B, 56%, 18 B/s, ETA 8s
+Transferred:            7 / 15, 47%
+Elapsed time:        11.0s
+Transferring:
+ * SaludYNormativa/Licenc…/txt/licencia_2025.txt:100% /29, 7/s, 0s
+ *    Proveedores/Contratos/txt/contrato_xyz.txt:  0% /23, 0/s, -
+ * SaludYNormativa/Buenas…l_buenas_practicas.txt:  0% /24, 0/s, -
+ * SaludYNormativa/Invima…df/certificado_abc.pdf:  0% /32, 0/s, -Transferred:   	        203 B / 364 B, 56%, 18 B/s, ETA 8s
+Transferred:            8 / 15, 53%
+Elapsed time:        11.5s
+Transferring:
+ *    Proveedores/Contratos/txt/contrato_xyz.txt:  0% /23, 0/s, -
+ * SaludYNormativa/Buenas…l_buenas_practicas.txt:  0% /24, 0/s, -
+ * SaludYNormativa/Invima…df/certificado_abc.pdf:  0% /32, 0/s, -
+ * Administracion/Factura…/factura_venta_001.txt:  0% /20, 0/s, -Transferred:   	        250 B / 364 B, 69%, 20 B/s, ETA 5s
+Transferred:            8 / 15, 53%
+Elapsed time:        12.0s
+Transferring:
+ *    Proveedores/Contratos/txt/contrato_xyz.txt:100% /23, 0/s, -
+ * SaludYNormativa/Buenas…l_buenas_practicas.txt:100% /24, 0/s, -
+ * SaludYNormativa/Invima…df/certificado_abc.pdf:  0% /32, 0/s, -
+ * Administracion/Factura…/factura_venta_001.txt:  0% /20, 0/s, -Transferred:   	        250 B / 364 B, 69%, 20 B/s, ETA 5s
+Transferred:            8 / 15, 53%
+Elapsed time:        12.5s
+Transferring:
+ *    Proveedores/Contratos/txt/contrato_xyz.txt:100% /23, 7/s, 0s
+ * SaludYNormativa/Buenas…l_buenas_practicas.txt:100% /24, 7/s, 0s
+ * SaludYNormativa/Invima…df/certificado_abc.pdf:  0% /32, 0/s, -
+ * Administracion/Factura…/factura_venta_001.txt:  0% /20, 0/s, -Transferred:   	        250 B / 364 B, 69%, 19 B/s, ETA 5s
+Transferred:           10 / 15, 67%
+Elapsed time:        13.0s
+Transferring:
+ * SaludYNormativa/Invima…df/certificado_abc.pdf:  0% /32, 0/s, -
+ * Administracion/Factura…/factura_venta_001.txt:  0% /20, 0/s, -
+ *         Clientes/Creditos/txt/credito_001.txt:  0% /21, 0/s, -
+ *           Clientes/Recetas/pdf/receta_001.pdf:  0% /20, 0/s, -Transferred:   	        282 B / 364 B, 77%, 19 B/s, ETA 4s
+Transferred:           10 / 15, 67%
+Elapsed time:        13.5s
+Transferring:
+ * SaludYNormativa/Invima…df/certificado_abc.pdf:100% /32, 0/s, -
+ * Administracion/Factura…/factura_venta_001.txt:  0% /20, 0/s, -
+ *         Clientes/Creditos/txt/credito_001.txt:  0% /21, 0/s, -
+ *           Clientes/Recetas/pdf/receta_001.pdf:  0% /20, 0/s, -Transferred:   	        282 B / 364 B, 77%, 20 B/s, ETA 4s
+Transferred:           10 / 15, 67%
+Elapsed time:        14.0s
+Transferring:
+ * SaludYNormativa/Invima…df/certificado_abc.pdf:100% /32, 10/s, 0s
+ * Administracion/Factura…/factura_venta_001.txt:  0% /20, 0/s, -
+ *         Clientes/Creditos/txt/credito_001.txt:  0% /21, 0/s, -
+ *           Clientes/Recetas/pdf/receta_001.pdf:  0% /20, 0/s, -Transferred:   	        282 B / 364 B, 77%, 20 B/s, ETA 4s
+Transferred:           11 / 15, 73%
+Elapsed time:        14.5s
+Transferring:
+ * Administracion/Factura…/factura_venta_001.txt:  0% /20, 0/s, -
+ *         Clientes/Creditos/txt/credito_001.txt:  0% /21, 0/s, -
+ *           Clientes/Recetas/pdf/receta_001.pdf:  0% /20, 0/s, -
+ * Administracion/Factura…factura_compra_001.txt:  0% /21, 0/s, -Transferred:   	        302 B / 364 B, 83%, 20 B/s, ETA 3s
+Transferred:           11 / 15, 73%
+Elapsed time:        15.0s
+Transferring:
+ * Administracion/Factura…/factura_venta_001.txt:100% /20, 0/s, -
+ *         Clientes/Creditos/txt/credito_001.txt:  0% /21, 0/s, -
+ *           Clientes/Recetas/pdf/receta_001.pdf:  0% /20, 0/s, -
+ * Administracion/Factura…factura_compra_001.txt:  0% /21, 0/s, -Transferred:   	        302 B / 364 B, 83%, 20 B/s, ETA 3s
+Transferred:           11 / 15, 73%
+Elapsed time:        15.5s
+Transferring:
+ * Administracion/Factura…/factura_venta_001.txt:100% /20, 4/s, 0s
+ *         Clientes/Creditos/txt/credito_001.txt:  0% /21, 0/s, -
+ *           Clientes/Recetas/pdf/receta_001.pdf:  0% /20, 0/s, -
+ * Administracion/Factura…factura_compra_001.txt:  0% /21, 0/s, -Transferred:   	        302 B / 364 B, 83%, 20 B/s, ETA 3s
+Transferred:           12 / 15, 80%
+Elapsed time:        16.0s
+Transferring:
+ *         Clientes/Creditos/txt/credito_001.txt:  0% /21, 0/s, -
+ *           Clientes/Recetas/pdf/receta_001.pdf:  0% /20, 0/s, -
+ * Administracion/Factura…factura_compra_001.txt:  0% /21, 0/s, -Transferred:   	        364 B / 364 B, 100%, 18 B/s, ETA 0s
+Transferred:           12 / 15, 80%
+Elapsed time:        16.5s
+Transferring:
+ *         Clientes/Creditos/txt/credito_001.txt:100% /21, 0/s, -
+ *           Clientes/Recetas/pdf/receta_001.pdf:100% /20, 0/s, -
+ * Administracion/Factura…factura_compra_001.txt:100% /21, 0/s, -Transferred:   	        364 B / 364 B, 100%, 21 B/s, ETA 0s
+Transferred:           12 / 15, 80%
+Elapsed time:        17.0s
+Transferring:
+ *         Clientes/Creditos/txt/credito_001.txt:100% /21, 5/s, 0s
+ *           Clientes/Recetas/pdf/receta_001.pdf:100% /20, 5/s, 0s
+ * Administracion/Factura…factura_compra_001.txt:100% /21, 0/s, -Transferred:   	        364 B / 364 B, 100%, 21 B/s, ETA 0s
+Transferred:           15 / 15, 100%
+Elapsed time:        17.4s
+-> Sincronización completada: 20250527_155626
+-> Purga de papeleras con más de 7 días
+-> Purga completada
+========== Finalizado: Tue May 27 03:56:45 PM -05 2025 ==========
+========== Iniciando respaldo: Tue May 27 03:57:47 PM -05 2025 ==========
+-> Organizando archivos en /home/cmlo/Desktop/RespaldoDrogueria
+-> Organización completada
+-> Sincronizando /home/cmlo/Desktop/RespaldoDrogueria -> nextcloud:RespaldoDrogueria
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         0.5sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.0sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.5sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         2.0sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         2.5sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         3.0sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Elapsed time:         3.5sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 2 / 2, 100%
+Elapsed time:         4.0sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 4 / 4, 100%
+Elapsed time:         4.5sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 7 / 7, 100%
+Elapsed time:         5.0sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                10 / 10, 100%
+Elapsed time:         5.5sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                13 / 15, 87%
+Deleted:                2 (files), 0 (dirs), 41 B (freed)
+Elapsed time:         6.0s
+Checking:
+ *           Clientes/Recetas/pdf/receta_001.pdf: deleting
+ *         Clientes/Creditos/txt/credito_001.txt: deletingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                13 / 15, 87%
+Deleted:                2 (files), 0 (dirs), 41 B (freed)
+Elapsed time:         6.5s
+Checking:
+ *           Clientes/Recetas/pdf/receta_001.pdf:  0% /20, 0/s, -, moving
+ *         Clientes/Creditos/txt/credito_001.txt:  0% /21, 0/s, -, movingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                13 / 15, 87%
+Deleted:                2 (files), 0 (dirs), 41 B (freed)
+Elapsed time:         7.0s
+Checking:
+ *           Clientes/Recetas/pdf/receta_001.pdf:  0% /20, 0/s, -, moving
+ *         Clientes/Creditos/txt/credito_001.txt:  0% /21, 0/s, -, movingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                13 / 15, 87%
+Deleted:                2 (files), 0 (dirs), 41 B (freed)
+Elapsed time:         7.5s
+Checking:
+ *           Clientes/Recetas/pdf/receta_001.pdf:  0% /20, 0/s, -, moving
+ *         Clientes/Creditos/txt/credito_001.txt:  0% /21, 0/s, -, movingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                13 / 15, 87%
+Deleted:                2 (files), 0 (dirs), 41 B (freed)
+Elapsed time:         8.0s
+Checking:
+ *           Clientes/Recetas/pdf/receta_001.pdf:  0% /20, 0/s, -, moving
+ *         Clientes/Creditos/txt/credito_001.txt:  0% /21, 0/s, -, movingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                13 / 15, 87%
+Deleted:                2 (files), 0 (dirs), 41 B (freed)
+Elapsed time:         8.5s
+Checking:
+ *           Clientes/Recetas/pdf/receta_001.pdf:  0% /20, 0/s, -, moving
+ *         Clientes/Creditos/txt/credito_001.txt:  0% /21, 0/s, -, movingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                13 / 15, 87%
+Deleted:                2 (files), 0 (dirs), 41 B (freed)
+Elapsed time:         9.0s
+Checking:
+ *           Clientes/Recetas/pdf/receta_001.pdf:  0% /20, 0/s, -, moving
+ *         Clientes/Creditos/txt/credito_001.txt:  0% /21, 0/s, -, movingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                13 / 15, 87%
+Deleted:                2 (files), 0 (dirs), 41 B (freed)
+Elapsed time:         9.5s
+Checking:
+ *           Clientes/Recetas/pdf/receta_001.pdf:  0% /20, 0/s, -, moving
+ *         Clientes/Creditos/txt/credito_001.txt:  0% /21, 0/s, -, movingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                13 / 15, 87%
+Deleted:                2 (files), 0 (dirs), 41 B (freed)
+Elapsed time:        10.0s
+Checking:
+ *           Clientes/Recetas/pdf/receta_001.pdf:  0% /20, 0/s, -, moving
+ *         Clientes/Creditos/txt/credito_001.txt:  0% /21, 0/s, -, movingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                13 / 15, 87%
+Deleted:                2 (files), 0 (dirs), 41 B (freed)
+Elapsed time:        10.5s
+Checking:
+ *           Clientes/Recetas/pdf/receta_001.pdf:  0% /20, 0/s, -, moving
+ *         Clientes/Creditos/txt/credito_001.txt:  0% /21, 0/s, -, movingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                13 / 15, 87%
+Deleted:                2 (files), 0 (dirs), 41 B (freed)
+Elapsed time:        11.0s
+Checking:
+ *           Clientes/Recetas/pdf/receta_001.pdf:  0% /20, 0/s, -, moving
+ *         Clientes/Creditos/txt/credito_001.txt:  0% /21, 0/s, -, movingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                15 / 16, 94%
+Deleted:                2 (files), 0 (dirs), 41 B (freed)
+Renamed:                1
+Server Side Moves:      1 @ 20 B
+Elapsed time:        11.5s
+Checking:
+ *         Clientes/Creditos/txt/credito_001.txt:  0% /21, 0/s, -, movingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                17 / 17, 100%
+Deleted:                2 (files), 1 (dirs), 41 B (freed)
+Renamed:                2
+Server Side Moves:      2 @ 41 B
+Elapsed time:        12.0sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                17 / 17, 100%
+Deleted:                2 (files), 1 (dirs), 41 B (freed)
+Renamed:                2
+Server Side Moves:      2 @ 41 B
+Elapsed time:        12.5sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                17 / 17, 100%
+Deleted:                2 (files), 2 (dirs), 41 B (freed)
+Renamed:                2
+Server Side Moves:      2 @ 41 B
+Elapsed time:        13.0sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                17 / 17, 100%
+Deleted:                2 (files), 3 (dirs), 41 B (freed)
+Renamed:                2
+Server Side Moves:      2 @ 41 B
+Elapsed time:        13.5sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                17 / 17, 100%
+Deleted:                2 (files), 3 (dirs), 41 B (freed)
+Renamed:                2
+Server Side Moves:      2 @ 41 B
+Elapsed time:        14.0sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                17 / 17, 100%
+Deleted:                2 (files), 4 (dirs), 41 B (freed)
+Renamed:                2
+Server Side Moves:      2 @ 41 B
+Elapsed time:        14.5sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                17 / 17, 100%
+Deleted:                2 (files), 5 (dirs), 41 B (freed)
+Renamed:                2
+Server Side Moves:      2 @ 41 B
+Elapsed time:        15.0sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                17 / 17, 100%
+Deleted:                2 (files), 5 (dirs), 41 B (freed)
+Renamed:                2
+Server Side Moves:      2 @ 41 B
+Elapsed time:        15.5sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                17 / 17, 100%
+Deleted:                2 (files), 5 (dirs), 41 B (freed)
+Renamed:                2
+Server Side Moves:      2 @ 41 B
+Elapsed time:        15.7s
+-> Sincronización completada: 20250527_155748
+-> Purga de papeleras con más de 7 días
+-> Purga completada
+========== Finalizado: Tue May 27 03:58:05 PM -05 2025 ==========
